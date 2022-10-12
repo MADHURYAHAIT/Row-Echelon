@@ -121,11 +121,11 @@ row_echleon(a)
 if a[1][1]==0:
     if a[2][1]!=0:
         swap=a[1]
-        a[0]=a[2]
+        a[1]=a[2]
         a[2]=swap
     elif a[3][1]!=0:
         swap=a[1]
-        a[0]=a[3]
+        a[1]=a[3]
         a[3]=swap
     else:
         print("\n Your matrix must be matrix of 4x4 \n")
