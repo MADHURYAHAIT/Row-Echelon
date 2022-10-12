@@ -9,5 +9,5 @@ A matrix being in row echelon form means that Gaussian elimination has operated 
 2. The leading coefficient (also called the pivot) of a nonzero row is always strictly to the right of the leading coefficient of the row above it.
 </p>
 <h3>This is the output of the python program : </h3>
-<img src ="imgs/img1.png" width=900/>
-<img src ="imgs/img2.png" width=900/>
+<img src ="imgs/img1.png" width=1000/>
+<img src ="imgs/img2.png" width=1000/>
